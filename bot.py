@@ -62,4 +62,4 @@ async def spamdm(ctx, amount, member:discord.Member, *, message):
     for i in range(int(amount)):
         await member.send(message)
 
-bot.run("ODc3Mjg1NzcyMDI0MjUwNDA5.YRwaCw.ZvD5-JIvbHPlIyvUfuzj4ppjqJQ")
+bot.run("TOKEN")
